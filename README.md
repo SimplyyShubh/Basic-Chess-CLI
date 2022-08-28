@@ -14,9 +14,13 @@ Use command Javac to compile ChessMain.java file.
 All java files will be compiled into the Folder.
 Use Java ChessMain.class file to run the project and play from Terminal.
 ```
-TECHNOLOGIES USED
-• Visual Studio Code
-• Java
-• Launcher4j
-• JDK and JRE
-• Windows PowerShell
+
+
+### TECHNOLOGIES USED
+```
+1. Visual Studio Code
+2. Java
+3. Launcher4j
+4. JDK and JRE
+5. Windows PowerShell
+```
